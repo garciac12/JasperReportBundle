@@ -1,13 +1,7 @@
 {
-  "name": "hboie/jasper-report-bundle",
+  "name": "garciac12/jasper-report-bundle",
   "description": "Symfony 7 / Symfony Flex Bundle integrating the Jaspersoft REST v2 client (jaspersoft/rest-client)",
   "type": "symfony-bundle",
-  "authors": [
-    {
-      "name": "Hans Boie",
-      "email": "hans.boie@gmx.de"
-    }
-  ],
   "keywords": ["REST", "JasperReport", "symfony2", "symfony3", "symfony4", "symfony5", "bundle"],
   "homepage": "https://github.com/hboie/JasperReportBundle",
   "license": "MIT",
